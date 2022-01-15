@@ -7,9 +7,9 @@ namespace BulkyBook.DataAccess.Repository.IRepository
         // Generic repo for common tasks ( update isnt one of
         // them because every update may have a different implementation )
 
-        //fe. _db.Categories.FirstOrDefault(u=>u.Name == "geo")
-        T GetFirstOrDefault(Expression<Func<T, bool>> filter);
-        IEnumerable<T> GetAll();
+        //to also include properties like Category and CoverType in Product
+        T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null);
+        IEnumerable<T> GetAll(string? includeProperties = null);
         void Add(T entity);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities); 

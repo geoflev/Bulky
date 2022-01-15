@@ -9,3 +9,4 @@ C:\Users\geofl\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBoo
 C:\Users\geofl\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
 C:\Users\geofl\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
 C:\Users\geofl\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\geofl\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
