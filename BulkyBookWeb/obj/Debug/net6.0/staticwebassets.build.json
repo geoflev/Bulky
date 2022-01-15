@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xm8bgTSkMXgoGR4Aq2vAjDqELUcPFtEnC1nkE84pXUs=",
+  "Hash": "s900Diq5HAVQfnbRdAK+YXYQQN49YlUGKWFsli2yj/U=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1171,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\fbd75dd4-b1be-4a4c-af63-c18afe799251.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\geofl\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\geofl\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\geofl\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
