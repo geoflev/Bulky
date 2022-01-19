@@ -4,7 +4,14 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>f0dd385a-a050-4c77-89f8-9782a4f9860f</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\products\3c1b0b74-9c97-4513-b7cf-9d2ac88ca942.PNG" />
+    <Content Remove="wwwroot\images\products\7bd969ff-9d3e-4fce-b165-510289f30014.PNG" />
+    <Content Remove="wwwroot\images\products\fbd75dd4-b1be-4a4c-af63-c18afe799251.PNG" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="6.0.1" />
